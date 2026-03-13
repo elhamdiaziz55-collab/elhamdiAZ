@@ -14,7 +14,7 @@ My journey in software engineering has led me to develop a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Build and monitor a home network security lab with log analysis | <a href="https://github.com/elhamdiaziz55-collab/hotel-network-security-lab">Hotel Network Security Lab</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -54,5 +54,5 @@ My journey in software engineering has led me to develop a passion for cybersecu
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/elhamdiaziz55-collab/hotel-network-security-lab">Hotel Network Security Lab</a>
 - SOC Automation Project
